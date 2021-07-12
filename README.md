@@ -1,2 +1,1 @@
-# ecombe.github.io
-Homepage of ecombe.vn
+#header in readme.md
